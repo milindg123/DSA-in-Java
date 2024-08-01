@@ -1,7 +1,10 @@
 /* Program to demonstrate the Strings declaration
+
  
  
  	Strings : It is primitive data type
+ 	
+ 	Strings are immutable : once the string is created we can not modify, change the strings
  
  
  
